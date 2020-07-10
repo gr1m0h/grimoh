@@ -1,8 +1,8 @@
-### Hi there I'm grimoh 👋
-
 [![blog badge](https://img.shields.io/badge/blog-grimoh-ff6699?style=flat-square)](https://www.blog.grimoh.net)
 [![twitter badge](https://img.shields.io/badge/twitter-grimoh-6495ed?style=flat-square&logo=twitter)](https://twitter.com/grim0h)
 [![speakerdeck badge](https://img.shields.io/badge/speakerdeck-grimoh-66cdaa?style=flat-square)](https://speakerdeck.com/grimoh)
+
+### Hi there I'm grimoh 👋
 
 I'm Site Reliability Engineer.
 
