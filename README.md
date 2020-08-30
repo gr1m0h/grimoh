@@ -13,7 +13,7 @@ I'm Site Reliability Engineer.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimoh" />
 </a>
 
-Status of GitHub Actions in all my repositories
+### Status of GitHub Actions in all my repositories
 
 | repositries | github actions status |
 |:-|:-|
