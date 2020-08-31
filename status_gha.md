@@ -1,4 +1,4 @@
-### Status of GitHub Actions in all my repositories
+### Status of GitHub Actions in my repositories
 
 | repositries | github actions status |
 |:-|:-|
