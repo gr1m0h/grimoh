@@ -7,9 +7,9 @@
 
 I'm a Site Reliability Engineer as well as a Vampire.
 
-<a href="https://github.com/micnncim">
+<a href="https://github.com/grimoh">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=grimoh&show_icons=true" />
 </a>
-<a href="https://github.com/micnncim">
+<a href="https://github.com/grimoh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimoh" />
 </a>
