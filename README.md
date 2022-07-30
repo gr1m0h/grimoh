@@ -5,7 +5,7 @@
 
 ### Hi there I'm grimoh 👋
 
-I'm a Site Reliability Engineer as well as a Vampire.
+I'm a Site Reliability Engineer, Platform Engineer as well as Vampire.
 
 <a href="https://github.com/grimoh">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=grimoh&show_icons=true" />
