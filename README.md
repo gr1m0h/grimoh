@@ -1,15 +1,17 @@
-[![github badge](https://img.shields.io/badge/github-696969?style=flat-square&logo=github)](https://github.com/grimoh)
-[![twitter badge](https://img.shields.io/badge/twitter-696969?style=flat-square&logo=twitter)](https://twitter.com/gr1m0h)
-[![speakerdeck badge](https://img.shields.io/badge/speakerdeck-696969?style=flat-square)](https://speakerdeck.com/grimoh)
-[![blog badge](https://img.shields.io/badge/blog-696969?style=flat-square)](https://weblog.grimoh.net)
+<img src="https://komarev.com/ghpvc/?username=grimoh&label=PROFILE+VIEWS&style=for-the-badge&color=9370DB">
 
-### Hi there I'm grimoh 👋
+Hello 🖐️ friends, welcome to my github !<br>
+I'm grimoh.<br> I'm a Platform Engineer, Site Reliability Engineer as well as [Vampire](https://draculatheme.com/). 🧛🏻‍♀️
 
-I'm a Site Reliability Engineer, Platform Engineer as well as Vampire.
+[![Twitter](https://img.shields.io/badge/twitter-00BFFF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
+[![Linkedin](https://img.shields.io/badge/linkedin-00008B.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wataru-tsuda-88614024a/)
+[![GitHub](https://img.shields.io/badge/github-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grimoh/)
+[![SpeakerDeck](https://img.shields.io/badge/speakerdeck-32CD32.svg?style=for-the-badge&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/grimoh/)
+[![Blog](https://img.shields.io/badge/blog-808080?style=for-the-badge&logo=&logoColor=white)](https://weblog.grimoh.net/)
 
-<a href="https://github.com/grimoh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=grimoh&show_icons=true" />
-</a>
-<a href="https://github.com/grimoh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimoh" />
-</a>
+## Github Stats 📊 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="grimoh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=grimoh&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=9370DB&icon_color=9370DB" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="grimoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimoh&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=9370DB&icon_color=9370DB&hide=Jupyter%20Notebook" height="192px"/></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="grimoh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=grimoh&bg_color=fff&color=9370DB&line=9370DB&point=000&hide_border=true" /></a>
