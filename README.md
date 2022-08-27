@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=grimoh&label=PROFILE+VIEWS&style=for-the-badge&color=FF79C6">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF79C6&background=282A3600&width=435&lines=Hello+%F0%9F%96%90%EF%B8%8F+Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/twitter-00BFFF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
