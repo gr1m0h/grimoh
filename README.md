@@ -2,6 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-00BFFF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
 [![Linkedin](https://img.shields.io/badge/linkedin-00008B.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wataru-tsuda-88614024a/)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-FFA500.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19945795/gr1m0h)
 [![GitHub](https://img.shields.io/badge/github-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grimoh/)
 [![SpeakerDeck](https://img.shields.io/badge/speakerdeck-32CD32.svg?style=for-the-badge&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/grimoh/)
 [![Blog](https://img.shields.io/badge/blog-808080?style=for-the-badge&logo=&logoColor=white)](https://weblog.grimoh.net/)
