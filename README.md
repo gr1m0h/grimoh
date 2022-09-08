@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-00BFFF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
 [![Notion](https://img.shields.io/badge/Notion-FFFFFF.svg?style=for-the-badge&logo=Notion&logoColor=black)](https://metal-tortoise-413.notion.site/5a2705a15e0245589e70b185e9861a6b)
 [![Linkedin](https://img.shields.io/badge/linkedin-00008B.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wataru-tsuda-88614024a/)
-[![Blog](https://img.shields.io/badge/blog-808080?style=for-the-badge)](https://weblog.grimoh.net/)
+[![Blog](https://img.shields.io/badge/blog-FF79C6?style=for-the-badge)](https://weblog.grimoh.net/)
 
 ## Github Stats 📊 
 
