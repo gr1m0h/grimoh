@@ -3,9 +3,10 @@
 [![GitHub](https://img.shields.io/badge/github-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grimoh/)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-FFA500.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19945795/gr1m0h)
 [![SpeakerDeck](https://img.shields.io/badge/speakerdeck-32CD32.svg?style=for-the-badge&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/grimoh/)
-[![Twitter](https://img.shields.io/badge/twitter-00BFFF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
+[![Twitter](https://img.shields.io/badge/twitter-1E90FF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
 [![Notion](https://img.shields.io/badge/Notion-FFFFFF.svg?style=for-the-badge&logo=Notion&logoColor=black)](https://metal-tortoise-413.notion.site/5a2705a15e0245589e70b185e9861a6b)
 [![Linkedin](https://img.shields.io/badge/linkedin-00008B.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wataru-tsuda-88614024a/)
+[![Zenn](https://img.shields.io/badge/zenn-00BFFF.svg?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/gr1m0h)
 [![Blog](https://img.shields.io/badge/blog-FF79C6?style=for-the-badge)](https://weblog.grimoh.net/)
 
 ## Github Stats 📊 
