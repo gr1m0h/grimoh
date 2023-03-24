@@ -1,15 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF79C6&background=282A3600&width=435&lines=Hello+%F0%9F%96%90%EF%B8%8F+Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/github-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grimoh/)
-[![SpeakerDeck](https://img.shields.io/badge/speakerdeck-32CD32.svg?style=for-the-badge&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/grimoh/)
-[![Twitter](https://img.shields.io/badge/twitter-1E90FF.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/gr1m0h/)
-[![StackOverflow](https://img.shields.io/badge/stackoverflow-FFA500.svg?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/19945795/gr1m0h)
-[![Zenn](https://img.shields.io/badge/zenn-00BFFF.svg?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/gr1m0h)
-[![Blog](https://img.shields.io/badge/blog-FF79C6?style=for-the-badge)](https://weblog.grimoh.net/)
-
-## Github Stats 📊 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=grimoh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grimoh&theme=dracula)](https://git.io/streak-stats)
 
