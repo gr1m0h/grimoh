@@ -3,5 +3,3 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="grimoh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=grimoh&show_icons=true&count_private=true&theme=dracula" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="grimoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimoh&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook" height="192px"/></a>
-
-[![grimoh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=grimoh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
